@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Este en un proyecto de prueba que estamos probando en el A2-405
+Este en un proyecto de prueba que estamos probando en el A2-405.
 
 ## How to test
 
-Conectamos varias entradas y salidas a diferentes elmentos de la aplicación final 
+Conectamos varias entradas y salidas a diferentes elmentos de la aplicación final.
 
 ## External hardware
 
